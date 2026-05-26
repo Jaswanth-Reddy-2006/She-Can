@@ -2,6 +2,10 @@
 
 A clean, responsive full-stack internship task for She Can Foundation. The project includes a public contact form, validation, Neon PostgreSQL database storage, and a simple password-protected admin panel to view submissions.
 
+## Live Demo
+
+[https://she-can-nine.vercel.app/](https://she-can-nine.vercel.app/)
+
 ## Live Project Goal
 
 This project was built for the Full Stack Development Internship Task. The required form fields are included:
